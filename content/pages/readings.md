@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4d035eb9-0419-8533-d950-ab8847bef39c
 ---
@@ -242,7 +245,7 @@ Apollo guidance and control
 
 Hall, Eldon C. _Journey to the Moon: The History of the Apollo Guidance Computer_. Reston, VA: American Institute of Aeronautics and Astronautics, 1996, chapters 4-7. ISBN: 9781563471858.
 
-Nevins, J. L. "Man-Machine Design for the Apollo Guidance, Navigation, and Control System." Presented at the 2nd IFAC Symposium on Automatic Control in Space, Vienna, Austria, September 4-8, 1967.
+Nevins, J. L. "Man-Machine Design for the Apollo Guidance, Navigation, and Control System." Presented at the 2{{< sup "nd" >}} IFAC Symposium on Automatic Control in Space, Vienna, Austria, September 4-8, 1967.
 
 Mindell, chapters 5-6.
 

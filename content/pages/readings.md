@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about required texts, optional texts,
+  other reading, and a calendar of weekly assignments.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -30,7 +32,7 @@ Kranz, Gene. _Failure is Not an Option: Mission Control from Mercury to Apollo 1
 Other Reading
 -------------
 
-Dick, Steven J., and Roger D. Launius. "Introduction." In _Critical Issues in the History of Spaceflight_. ([PDF]({{< baseurl >}}/resources/dick_launius))  (Courtesy of NASA.)
+Dick, Steven J., and Roger D. Launius. "Introduction." In _Critical Issues in the History of Spaceflight_. ({{% resource_link da20cdf0-6e91-7b22-58ba-fb335fe4c4a6 "PDF" %}})  (Courtesy of NASA.)
 
 Whipple, Fred L. "Is There Life on Mars?" _Collier's,_ April 30, 1954, 21.
 
@@ -195,7 +197,7 @@ The LOR decision
 
 Hansen, James. _Enchanted Rendezvous: John C. Houbolt and the Genesis of the Lunar-Orbit Rendezvous Concept_. NASA, 1995.
 
-Seamans, Robert. _Apollo: The Tough Decisions_. Washington, DC: NASA, 2005, chapter 3. ([PDF - 2.9 MB]({{< baseurl >}}/resources/3_5_monograph37))  (Courtesy of NASA.)
+Seamans, Robert. _Apollo: The Tough Decisions_. Washington, DC: NASA, 2005, chapter 3. ({{% resource_link 5ea51453-4ba2-3442-7be4-542d6abcbcb5 "PDF - 2.9 MB" %}})  (Courtesy of NASA.)
 
 Cox and Murray, chapters 7-9.
 
@@ -208,14 +210,14 @@ Cox and Murray, chapters 7-9.
 9
 {{< tdclose >}}
 {{< tdopen >}}
-The Soviet moon program ([PDF]({{< baseurl >}}/resources/soviet_mand_lunr))
+The Soviet moon program ({{% resource_link f4973467-56fd-cce5-dae1-7e9106e1083e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 Gerovitch, Slava. "New Soviet Man Inside the Machine."
 
-———. "Human Machine Issues in the Soviet Space Program." Chapter 4 in _Critical Issues in the History of Space Flight_. Edited by Dick, Steven J., and Roger Launius. Washington, DC: NASA, 2006. ([PDF - 1.0 MB]({{< baseurl >}}/resources/3_7_gerovitch))  (Courtesy of NASA.)
+———. "Human Machine Issues in the Soviet Space Program." Chapter 4 in _Critical Issues in the History of Space Flight_. Edited by Dick, Steven J., and Roger Launius. Washington, DC: NASA, 2006. ({{% resource_link 65374562-5a35-89da-4e27-6933b6df887d "PDF - 1.0 MB" %}})  (Courtesy of NASA.)
 
 
 {{< tdclose >}}
@@ -287,7 +289,7 @@ Designing a landing
 {{< tdopen >}}
 
 
-Bennett, and Cheatham. "Apollo Lunar Module Landing Strategy." ([PDF - 2.7 MB]({{< baseurl >}}/resources/4_2_lunr_landing))  (Courtesy of NASA.)
+Bennett, and Cheatham. "Apollo Lunar Module Landing Strategy." ({{% resource_link 0028108a-6ba8-ed19-10de-0b0940194f7f "PDF - 2.7 MB" %}})  (Courtesy of NASA.)
 
 Klumpp, A. R. "A Manually Retargeted Automatic Landing System for the Lunar Module." _Journal of Spacecraft and Rockets_ 40 (2003): 973-982.
 
@@ -321,7 +323,7 @@ Apollo software
 
 Eyles. "Tales from the Lunar Module Guidance Computer." Presented to the 27th Annual Guidance and Control Conference of the American Astronautical Society ([AAS](http://www.astronautical.org/)). Breckenridge, CO: February 6, 2004.
 
-Johnson, Madeline S., and Donald R. Giller. "MIT's Role in Project Apollo, Volume 5: Software." ([PDF 1 - 8.3 MB]({{< baseurl >}}/resources/1_4_9_mit_role)) ([PDF 2 - 7.7 MB]({{< baseurl >}}/resources/2_4_9_mit_role) )
+Johnson, Madeline S., and Donald R. Giller. "MIT's Role in Project Apollo, Volume 5: Software." ({{% resource_link ffd0887f-372f-6c43-2b11-d396d9b1ae51 "PDF 1 - 8.3 MB" %}}) ({{% resource_link 187c008e-fc91-e1c6-0afc-717bb728931e "PDF 2 - 7.7 MB" %}} )
 
 Mindell, chapter 7.
 
@@ -343,7 +345,7 @@ Apollo 11
 
 Apollo Lunar Surface Journal: Apollo 12 "[A Visit to the Snowman](http://www.hq.nasa.gov/office/pao/History/alsj/a12/a12.landing.html)."
 
-Bennett. "Apollo Experience Report: Mission Planning for Lunar Module Descent and Ascent." ([PDF - 1.9 MB]({{< baseurl >}}/resources/4_23_bennett))  (Courtesy of NASA.)
+Bennett. "Apollo Experience Report: Mission Planning for Lunar Module Descent and Ascent." ({{% resource_link dc764168-049e-c675-ce03-cd2593d5743a "PDF - 1.9 MB" %}})  (Courtesy of NASA.)
 
 Cox and Murray, chapters 24-25.
 
@@ -389,7 +391,7 @@ Covering Apollo: The role of the press
 
 Smith, Michael L. "Selling the Moon: The U.S. Manned Space Program and the Triumph of Commodity Scientism." In _The Culture of Consumption: Critical Essays in American History, 1880-1980_. Edited by Richard Wightman Foz and T. J. Jackson Lears. New York, NY: Pantheon, 1983. ISBN: 9780394511313.
 
-Launius. "Heroes in a Vacuum: The Apollo Astronaut as Cultural Icon." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://klabs.org/history/roger/launius_2005.pdf))
+Launius. "Heroes in a Vacuum: The Apollo Astronaut as Cultural Icon." ([PDF](http://klabs.org/history/roger/launius_2005.pdf))
 
 Collection of original news articles.
 

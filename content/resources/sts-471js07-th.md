@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/c755109aab1f8ca1063e9e3e81757d34_sts-471js07-th.jpg
+file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/c755109aab1f8ca1063e9e3e81757d34_sts-471js07-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Apollo 11 astronaut Edwin E. Aldrin, Jr., lunar module pilot, is photographed
@@ -14,3 +14,5 @@ resourcetype: Image
 title: sts-471js07-th.jpg
 uid: c755109a-ab1f-8ca1-063e-9e3e81757d34
 ---
+New image Upload
+

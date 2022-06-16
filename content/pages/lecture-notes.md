@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the lecture notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ STUDENT NOTES
 Introduction and overview
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec01))
+({{% resource_link f5d9b013-8386-da36-49bc-13fd172ddc9f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Introduction and overview
 Apollo as a complex system
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec02))
+({{% resource_link 8503201a-9984-56db-8e8a-da1244ba4c95 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +56,7 @@ Apollo as a complex system
 Historical/technical analysis of engineering systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec03))
+({{% resource_link c8859e03-97e4-7dab-50ec-3d7150ca9c32 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Historical/technical analysis of engineering systems
 Systems engineering and atlas
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec04))
+({{% resource_link a3cebfcf-76a9-9592-4ae7-5376a3bf7e32 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ Systems engineering and atlas
 Organizing research from NACA to NASA
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec05))
+({{% resource_link 9a7f9fb2-f49f-a730-5300-a06969ec9983 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +92,7 @@ Organizing research from NACA to NASA
 Sputnik, Mercury, and the Cold War
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec06))
+({{% resource_link dc2f8731-ac46-b9c6-d6d7-bc21cab8b794 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +104,7 @@ Sputnik, Mercury, and the Cold War
 Kennedy's decision: From politics to engineering specs
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec07))
+({{% resource_link 75b0e401-d2f9-b156-4e3a-167adb3e83a6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +116,7 @@ Kennedy's decision: From politics to engineering specs
 The LOR decision
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec08))
+({{% resource_link bb02c9d7-0e0e-b4cc-b6fb-c393065c3643 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +128,7 @@ The LOR decision
 The Soviet moon program
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec09))
+({{% resource_link 4bef3d48-791f-d850-6aeb-a3ba217b0be0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +140,7 @@ The Soviet moon program
 Gemini and early Apollo engineering
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec10))
+({{% resource_link db652954-1c9c-4e75-bfee-c21c8c0e2ef4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +152,7 @@ Gemini and early Apollo engineering
 Apollo guidance and control
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec11))
+({{% resource_link c03e8355-80d4-8115-8a65-4eed546ff630 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +164,7 @@ Apollo guidance and control
 Astronautical guidance
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec12))
+({{% resource_link 9319fd3c-3125-1398-da9d-dd042012af8e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +176,7 @@ Astronautical guidance
 Engineering the LEM
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec13))
+({{% resource_link 238b49e8-cd48-5aae-5a76-b47fac85626b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +188,7 @@ Engineering the LEM
 Designing a landing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec14))
+({{% resource_link dd8b304e-7030-7aa9-e8ea-012959fcc101 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +200,7 @@ Designing a landing
 NASA's current moon plans
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec15))
+({{% resource_link 6b55b43e-8bc9-6570-854c-5010318df4f5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -212,12 +213,12 @@ NASA's current moon plans
 
 Apollo software
 
-Presentation by Doug Cooke of NASA ([PDF - 1.8 MB]({{< baseurl >}}/resources/16nasa_cooke)) (Courtesy of NASA.)
+Presentation by Doug Cooke of NASA ({{% resource_link ff9ce001-a5f0-c8e7-2c05-fc1127f520eb "PDF - 1.8 MB" %}}) (Courtesy of NASA.)
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec16))
+({{% resource_link 4974c4bb-580a-850b-08be-c162e3f75fca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +230,7 @@ Presentation by Doug Cooke of NASA ([PDF - 1.8 MB]({{< baseurl >}}/resources/16n
 Apollo 11
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec17))
+({{% resource_link 2587398e-5330-bf92-f23a-198c5b54707a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,7 +242,7 @@ Apollo 11
 Apollo 14: An astronaut's view
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec18))
+({{% resource_link 089a57c2-9324-aa30-570d-e2bc4b727e13 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -253,7 +254,7 @@ Apollo 14: An astronaut's view
 Apollo 12 and group project freetime
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec19))
+({{% resource_link 9de35556-4820-5bc2-83c7-d5b086df84f3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -265,7 +266,7 @@ Apollo 12 and group project freetime
 Covering Apollo: The role of the press
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec20))
+({{% resource_link 0bd1397e-6a10-0980-76cd-ccbcfa88a30f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,10 +275,10 @@ Covering Apollo: The role of the press
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Life support and human factors I ([PDF - 1.4 MB]({{< baseurl >}}/resources/22young))
+Life support and human factors I ({{% resource_link fb71cb10-d371-1cf0-170b-5401075c5345 "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec21))
+({{% resource_link e66e9b66-00cf-cc00-9d2b-cf646340dbf8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -289,7 +290,7 @@ Life support and human factors I ([PDF - 1.4 MB]({{< baseurl >}}/resources/22you
 Bob Parker: Scientist-astronauts and lunar science
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec22))
+({{% resource_link 40d6c2b9-d1e0-272e-d911-ee0822ff15c8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -313,7 +314,7 @@ Student presentations
 Student presentations wrap-up
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec24))
+({{% resource_link 989e0db4-a33a-9f93-dbc3-6e9c90b4f8f9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -337,7 +338,7 @@ MIT museum trip
 Final class
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec26))
+({{% resource_link c16177b6-414f-c87a-84d1-b8a82f55cba1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

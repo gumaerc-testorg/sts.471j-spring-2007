@@ -6,6 +6,7 @@ file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: dick_launius.pdf
 uid: da20cdf0-6e91-7b22-58ba-fb335fe4c4a6
 ---
 Reading assignment: Dick, Steven J., and Roger D. Launius. "Introduction." In Critical Issues in the History of Spaceflight.
-

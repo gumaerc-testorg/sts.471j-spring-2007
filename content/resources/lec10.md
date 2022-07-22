@@ -5,6 +5,7 @@ file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec10.pdf
 uid: db652954-1c9c-4e75-bfee-c21c8c0e2ef4
 ---
 Lecture notes about Gemini and early Apollo engineering.
-

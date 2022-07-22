@@ -5,6 +5,7 @@ file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: bok_rep_renkoski.pdf
 uid: 36cb388b-29ba-5b9a-85e8-732bbf02f104
 ---
 Example of a student book report.
-

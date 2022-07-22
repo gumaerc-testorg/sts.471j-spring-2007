@@ -7,6 +7,7 @@ file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: bok_rev_hofstett.pdf
 uid: 2869babe-9f58-3e61-6b53-78c6ada9455c
 ---
 This resource tells about human spaceflight in the United States and in the Soviet Union / USSR with a particular focus on the early human spaceflight programs and lunar missions.
-

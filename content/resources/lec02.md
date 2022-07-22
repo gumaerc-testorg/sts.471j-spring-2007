@@ -5,6 +5,7 @@ file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec02.pdf
 uid: 8503201a-9984-56db-8e8a-da1244ba4c95
 ---
 Lecture notes on Apollo as a complex system.
-

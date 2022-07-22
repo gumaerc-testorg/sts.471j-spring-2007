@@ -6,6 +6,7 @@ file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec26.pdf
 uid: c16177b6-414f-c87a-84d1-b8a82f55cba1
 ---
 Lecture notes about NASA?s current plans for space exploration, goals of lunar exploration, vision for space exploration, and a wrap-up with students.
-

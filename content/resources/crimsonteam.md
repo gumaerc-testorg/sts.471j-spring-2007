@@ -7,6 +7,7 @@ file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: crimsonteam.pdf
 uid: 1a2f426c-e94c-3479-603c-26872289f7b3
 ---
 Example of a Team Report by Crimson Team: Friedman, Gay, Leybovich, Yamamoto, Brzezinski, Graham, Needham, Baker, Brunet, Houghton, Bachmann, Fanchiang, Gillespie, and Panish.
-

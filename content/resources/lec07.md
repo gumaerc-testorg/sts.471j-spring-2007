@@ -6,6 +6,7 @@ file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec07.pdf
 uid: 75b0e401-d2f9-b156-4e3a-167adb3e83a6
 ---
 Lecture notes about Kennedy's decision: from politics to engineering specs.
-

@@ -6,6 +6,7 @@ file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2_4_9_mit_role.pdf
 uid: 187c008e-fc91-e1c6-0afc-717bb728931e
 ---
 Assigned reading: Johnson, Madeline S., and Donald R. Giller. "MIT's Role in Project Apollo, Volume 5: Software."
-

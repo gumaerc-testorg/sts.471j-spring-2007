@@ -6,6 +6,7 @@ file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec15.pdf
 uid: 6b55b43e-8bc9-6570-854c-5010318df4f5
 ---
 Lecture notes about "Key Decisions in the Apollo Program" and NASA's current moon plans.
-

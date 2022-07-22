@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: Photo of an astronaut on the surface of the moon.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-471js07-th.jpg
 uid: c755109a-ab1f-8ca1-063e-9e3e81757d34
 ---
 New image Upload
-

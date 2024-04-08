@@ -173,7 +173,7 @@ Kennedy's decision: From politics to engineering specs
 {{< tdopen >}}
 
 
-Launius, Roger. "[Apollo: A Retrospective Analysis](http://www.hq.nasa.gov/office/pao/History/Apollomon/cover.html)."
+Launius, Roger. "{{% resource_link "f27d8d23-64b9-4c3b-b7b1-32e47919a7ea" "Apollo: A Retrospective Analysis" %}}."
 
 Logsdon, John. _The Decision to Go to the Moon_. Chicago, IL: University of Chicago Press, 1976, chapters 2, 4, and 6. ISBN: 9780226491752.
 
@@ -321,7 +321,7 @@ Apollo software
 {{< tdopen >}}
 
 
-Eyles. "Tales from the Lunar Module Guidance Computer." Presented to the 27th Annual Guidance and Control Conference of the American Astronautical Society ([AAS](http://www.astronautical.org/)). Breckenridge, CO: February 6, 2004.
+Eyles. "Tales from the Lunar Module Guidance Computer." Presented to the 27th Annual Guidance and Control Conference of the American Astronautical Society ({{% resource_link "7ae2947a-56b4-488e-ba24-f366a41a0623" "AAS" %}}). Breckenridge, CO: February 6, 2004.
 
 Johnson, Madeline S., and Donald R. Giller. "MIT's Role in Project Apollo, Volume 5: Software." ({{% resource_link ffd0887f-372f-6c43-2b11-d396d9b1ae51 "PDF 1 - 8.3 MB" %}}) ({{% resource_link 187c008e-fc91-e1c6-0afc-717bb728931e "PDF 2 - 7.7 MB" %}} )
 
@@ -341,9 +341,9 @@ Apollo 11
 {{< tdopen >}}
 
 
-[Apollo 11: The NASA Mission Reports](http://www.hq.nasa.gov/alsj/a11/a11mr.html)
+{{% resource_link "7fa1365d-1b8f-4829-9c27-25c0de02744d" "Apollo 11: The NASA Mission Reports" %}}
 
-Apollo Lunar Surface Journal: Apollo 12 "[A Visit to the Snowman](http://www.hq.nasa.gov/office/pao/History/alsj/a12/a12.landing.html)."
+Apollo Lunar Surface Journal: Apollo 12 "{{% resource_link "99e4f8c5-dfc6-4b74-8d53-1dd50c4b04d0" "A Visit to the Snowman" %}}."
 
 Bennett. "Apollo Experience Report: Mission Planning for Lunar Module Descent and Ascent." ({{% resource_link dc764168-049e-c675-ce03-cd2593d5743a "PDF - 1.9 MB" %}})  (Courtesy of NASA.)
 
@@ -391,7 +391,7 @@ Covering Apollo: The role of the press
 
 Smith, Michael L. "Selling the Moon: The U.S. Manned Space Program and the Triumph of Commodity Scientism." In _The Culture of Consumption: Critical Essays in American History, 1880-1980_. Edited by Richard Wightman Foz and T. J. Jackson Lears. New York, NY: Pantheon, 1983. ISBN: 9780394511313.
 
-Launius. "Heroes in a Vacuum: The Apollo Astronaut as Cultural Icon." ([PDF](http://klabs.org/history/roger/launius_2005.pdf))
+Launius. "Heroes in a Vacuum: The Apollo Astronaut as Cultural Icon." ({{% resource_link "8ef20a5e-d229-4cf9-b51b-6a9f18b4911b" "PDF" %}})
 
 Collection of original news articles.
 
@@ -409,7 +409,7 @@ Kauffman, chapter 4.
 Life support and human factors I
 {{< tdclose >}}
 {{< tdopen >}}
-Pitts, John A. [_The Human Factor_](http://history.nasa.gov/SP-4213/contents.htm). Chapters 1-7.
+Pitts, John A. {{% resource_link "92b1c041-4a90-402e-b867-88d6c855c2d7" "_The Human Factor_" %}}. Chapters 1-7.
 {{< tdclose >}}
 
 {{< trclose >}}

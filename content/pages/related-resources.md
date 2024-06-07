@@ -13,7 +13,7 @@ Apollo Lunar Landing Audio/Video Clips
 
 All files provided below are courtesy of NASA.
 
-Apollo 11 audio clips can be found {{% resource_link "5d839027-0eb8-4b4f-9573-46a9400131f7" "here" %}}.
+Apollo 11 audio clips can be found [here](http://www.live365.com/stations/apollo_11_oda).
 
 Apollo 12 ({{% resource_link 7f132a0b-d6fc-4175-3538-deaf1b037be4 "MP3" %}})
 
@@ -28,6 +28,6 @@ Apollo 17 ({{% resource_link 279f8ab3-8a18-5b21-7f71-453d28295e92 "MOV - 4.8 MB"
 Links
 -----
 
-{{% resource_link "7b8e2562-b4a0-4d33-981c-20f4570a19ad" "Johnson Space Center Oral Histories" %}}
+[Johnson Space Center Oral Histories](http://www.jsc.nasa.gov/history/oral_histories/oral_histories.htm)
 
-{{% resource_link "c1be65a6-0471-42e7-b982-747025975d36" "Apollo Lunar Surface Journals" %}}
+[Apollo Lunar Surface Journals](http://www.hq.nasa.gov/office/pao/History/alsj/frame.html)

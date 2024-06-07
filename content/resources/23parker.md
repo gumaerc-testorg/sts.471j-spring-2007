@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains images on training, risk, proficiency, design
   and development.
 file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/0cb048981042d5fa6b0fef84b622e64b_23parker.pdf
+file_size: 1778577
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/mitsts_471s07_lec02.pdf
+file_size: 35521
 file_type: application/pdf
 image_metadata:
   caption: ''

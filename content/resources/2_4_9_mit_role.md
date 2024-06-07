@@ -3,6 +3,7 @@ content_type: resource
 description: 'Assigned reading: Johnson, Madeline S., and Donald R. Giller. "MIT''s
   Role in Project Apollo, Volume 5: Software."'
 file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/187c008efc91e1c60afc717bb728931e_2_4_9_mit_role.pdf
+file_size: 8061533
 file_type: application/pdf
 learning_resource_types:
 - Readings

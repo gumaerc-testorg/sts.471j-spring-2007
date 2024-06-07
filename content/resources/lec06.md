@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about Sputnik, Mercury, and the Cold War.
 file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/dc2f8731ac46b9c6d6d7bc21cab8b794_lec06.pdf
+file_size: 23488
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Apollo Lunar Landing Audio/Video Clip.
 file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/279f8ab38a185b217f71453d28295e92_a17landing.mov
+file_size: 5029143
 file_type: video/quicktime
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

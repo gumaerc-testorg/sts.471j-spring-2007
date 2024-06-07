@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/8f61004f03187e55818e25721ef36d23_2_26_kauff_ch2_3.pdf
+file_size: 2323428
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -4,6 +4,7 @@ description: This resource tells about human spaceflight in the United States an
   in the Soviet Union / USSR with a particular focus on the early human spaceflight
   programs and lunar missions.
 file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/2869babe9f583e616b5378c6ada9455c_bok_rev_hofstett.pdf
+file_size: 31817
 file_type: application/pdf
 learning_resource_types:
 - Assignments

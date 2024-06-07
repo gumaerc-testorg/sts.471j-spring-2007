@@ -2,6 +2,7 @@
 content_type: resource
 description: Presentation on Apollo software by Doug Cooke of NASA.
 file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/ff9ce001a5f0c8e72c05fc1127f520eb_16nasa_cooke.pdf
+file_size: 1930173
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about organizing research from NACA to NASA.
 file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/9a7f9fb2f49fa7305300a06969ec9983_lec05.pdf
+file_size: 14474
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Example of a student book report.
 file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/94fa15addb443491672230ec106d2530_bok_rev_gay.pdf
+file_size: 39598
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture notes about Kennedy''s decision: from politics to engineering
   specs.'
 file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/75b0e401d2f9b1564e3a167adb3e83a6_lec07.pdf
+file_size: 15516
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

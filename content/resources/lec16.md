@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about "Tales from the Lunar Module Guidance Computer."
 file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/4974c4bb580a850b08bec162e3f75fca_lec16.pdf
+file_size: 14005
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

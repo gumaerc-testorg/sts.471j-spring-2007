@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about Gemini and early Apollo engineering.
 file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/db6529541c9c4e75bfeec21c8c0e2ef4_lec10.pdf
+file_size: 10425
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

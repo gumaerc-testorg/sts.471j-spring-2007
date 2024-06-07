@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about Landing Point Designation.
 file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/9de3555648205bc283c7d5b086df84f3_lec19.pdf
+file_size: 11631
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

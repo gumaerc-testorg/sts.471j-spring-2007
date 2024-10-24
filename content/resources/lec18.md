@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture notes about Apollo 14: an astronaut''s view.'
-file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/089a57c29324aa30570de2bc4b727e13_lec18.pdf
+file: /ol-ocw-studio-app/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/089a57c29324aa30570de2bc4b727e13_lec18.pdf
 file_size: 13721
 file_type: application/pdf
 learning_resource_types:

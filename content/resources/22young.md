@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about human factors and life support in Apollo.
-file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/fb71cb10d3711cf0170b5401075c5345_22young.pdf
+file: /ol-ocw-studio-app/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/fb71cb10d3711cf0170b5401075c5345_22young.pdf
 file_size: 1472065
 file_type: application/pdf
 learning_resource_types:

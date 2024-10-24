@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains pictures of Chief Designer Sergei Korolev, Korolev,
   Kurchatov, and Keldysh, Council of Chief Designers and Sergei Korolev in prison.
-file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/8f83992f0ce85be1267686f3f64ede92_07gerovitch.pdf
+file: /ol-ocw-studio-app/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/8f83992f0ce85be1267686f3f64ede92_07gerovitch.pdf
 file_size: 6920778
 file_type: application/pdf
 learning_resource_types:

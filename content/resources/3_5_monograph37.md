@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Reading assignment: Seamans, Robert. Apollo: The Tough Decisions. Washington,
   DC: NASA, 2005, chapter 3.'
-file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/5ea514534ba234427be4542d6abcbcb5_3_5_monograph37.pdf
+file: /ol-ocw-studio-app/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/5ea514534ba234427be4542d6abcbcb5_3_5_monograph37.pdf
 file_size: 2983555
 file_type: application/pdf
 learning_resource_types:

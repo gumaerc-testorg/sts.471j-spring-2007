@@ -3,7 +3,7 @@ content_type: resource
 description: 'Example of a Team Report by Crimson Team: Friedman, Gay, Leybovich,
   Yamamoto, Brzezinski, Graham, Needham, Baker, Brunet, Houghton, Bachmann, Fanchiang,
   Gillespie, and Panish.'
-file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/1a2f426ce94c3479603c26872289f7b3_crimsonteam.pdf
+file: /ol-ocw-studio-app/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/1a2f426ce94c3479603c26872289f7b3_crimsonteam.pdf
 file_size: 1193814
 file_type: application/pdf
 learning_resource_types:

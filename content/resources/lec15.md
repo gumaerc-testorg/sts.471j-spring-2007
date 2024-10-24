@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes about "Key Decisions in the Apollo Program" and NASA's
   current moon plans.
-file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/6b55b43e8bc96570854c5010318df4f5_lec15.pdf
+file: /ol-ocw-studio-app/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/6b55b43e8bc96570854c5010318df4f5_lec15.pdf
 file_size: 21857
 file_type: application/pdf
 learning_resource_types:

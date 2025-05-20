@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about the role of the press in covering Apollo.
-file: /ol-ocw-studio-app/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/0bd1397e6a10098076cdccbcfa88a30f_lec20.pdf
+file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/0bd1397e6a10098076cdccbcfa88a30f_lec20.pdf
 file_size: 13300
 file_type: application/pdf
 learning_resource_types:

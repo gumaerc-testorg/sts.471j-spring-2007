@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about the LOR Decision.
-file: /ol-ocw-studio-app/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/bb02c9d70e0eb4ccb6fbc393065c3643_lec08.pdf
+file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/bb02c9d70e0eb4ccb6fbc393065c3643_lec08.pdf
 file_size: 13597
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about the Soviet Moon Program.
-file: /ol-ocw-studio-app/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/4bef3d48791fd8506aeba3ba217b0be0_lec09.pdf
+file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/4bef3d48791fd8506aeba3ba217b0be0_lec09.pdf
 file_size: 24420
 file_type: application/pdf
 learning_resource_types:

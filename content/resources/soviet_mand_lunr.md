@@ -2,7 +2,7 @@
 content_type: resource
 description: Assigned reading that summarizes the Soviet manned lunar program in the
   light of the latest findings published in the West.
-file: /ol-ocw-studio-app/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/f497346756fdcce5dae17e9106e1083e_soviet_mand_lunr.pdf
+file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/f497346756fdcce5dae17e9106e1083e_soviet_mand_lunr.pdf
 file_size: 178347
 file_type: application/pdf
 learning_resource_types:

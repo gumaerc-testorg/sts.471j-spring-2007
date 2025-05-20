@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Reading assignment: Bennett, and Cheatham. "Apollo Lunar Module Landing
   Strategy."'
-file: /ol-ocw-studio-app/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/dc764168049ec675ce03cd2593d5743a_4_23_bennett.pdf
+file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/dc764168049ec675ce03cd2593d5743a_4_23_bennett.pdf
 file_size: 1960119
 file_type: application/pdf
 learning_resource_types:

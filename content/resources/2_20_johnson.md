@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/aa00ebe06438bd30569ec574dac639e3_2_20_johnson.pdf
+file: /ol-ocw-studio-app/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/aa00ebe06438bd30569ec574dac639e3_2_20_johnson.pdf
 file_size: 3163210
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/c755109aab1f8ca1063e9e3e81757d34_sts-471js07-th.jpg
+file: /ol-ocw-studio-app/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/c755109aab1f8ca1063e9e3e81757d34_sts-471js07-th.jpg
 file_size: 8983
 file_type: image/jpeg
 image_metadata:

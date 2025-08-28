@@ -4,7 +4,7 @@ description: 'Example of a Team Report by Gray Team: Bryan Gardner, Wilfried Hof
   Ryan McLinko, Lucy Cohan, Swati Mohan, Rebecca Myers, Ben Renkoski, Tatsuya Arai,
   Melanie Chin, Elizabeth Deems, Jaime Mateus, Phillip Cunio, Christine Edwards, Carl
   Engel, and Zahra Khan.'
-file: /courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/8493902b644cf4f747c297a3f1d3aa25_grayteam.pdf
+file: /ol-ocw-studio-app/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/8493902b644cf4f747c297a3f1d3aa25_grayteam.pdf
 file_size: 6386704
 file_type: application/pdf
 learning_resource_types:

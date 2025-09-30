@@ -13,7 +13,7 @@ Course Summary
 
 A detailed technical and historical exploration of the Apollo project to fly humans to the moon and return them safely to earth as an example of a complex engineering system. Emphasis is on how the systems worked, the technical and social processes that produced them, mission operations, and historical significance. Topics include: Historical antecedents, guidance and control, digital computing, systems engineering, project management, human-machine interface, propulsion and structures, space policy, industrial infrastructure, Cold War politics, American culture in the 1950s and 60s, and future moon missions. Guest lectures by MIT-affiliated engineers and astronauts who contributed to and participated in the Apollo missions. Students work in teams on a final project analyzing an aspect of the historical project to articulate and synthesize ideas in engineering systems.
 
-[Professor Mindell's website.](http://web.mit.edu/mindell/www/)
+{{% resource_link "2e305790-2334-48ec-988a-ccf2d5e9645c" "Professor Mindell's website." %}}
 
 Course Readings
 ---------------

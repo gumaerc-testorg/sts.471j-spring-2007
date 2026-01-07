@@ -6,8 +6,7 @@ file_size: 8983
 file_type: image/jpeg
 image_metadata:
   caption: Apollo 11 astronaut Edwin E. Aldrin, Jr., lunar module pilot, is photographed
-    by Neil Armstrong as he walks on the surface of the Moon. (Image courtesy of {{%
-    resource_link "716c45bf-bfd7-4851-822b-9cd9ffc63579" "NASA" %}}.)
+    by Neil Armstrong as he walks on the surface of the Moon. (Image courtesy of [NASA](http://www.nasa.gov/).)
   credit: ''
   image-alt: Photo of an astronaut on the surface of the moon.
 learning_resource_types: []
